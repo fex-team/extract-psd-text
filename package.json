@@ -1,0 +1,8 @@
+{
+  "name": "extract_psd_text",
+  "version": "0.0.1",
+  "dependencies": {
+    "psd": "~1.1.0",
+    "node-getopt": "~0.2.3"
+  }
+}
